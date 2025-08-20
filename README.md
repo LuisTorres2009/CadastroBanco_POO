@@ -1,4 +1,4 @@
-# CadastroBanco_POO
+#🏦 CadastroBanco_POO
 
 Aplicação em **Java Swing** que simula o cadastro e gerenciamento básico de clientes e contas bancárias, utilizando conceitos de **Programação Orientada a Objetos (POO)**. O projeto apresenta uma interface gráfica simples para cadastrar clientes, criar contas correntes ou poupança, consultar dados e atualizar informações.
 
