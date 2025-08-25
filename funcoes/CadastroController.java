@@ -45,7 +45,6 @@ public class CadastroController {
         }
         conta.setAgencia(janela.getJtfAgencia().getText());
         conta.setNumero(janela.getJtfConta().getText());
-        conta.setSaldo(0.0); // valor inicial
 
         // Exibe mensagem simulando consulta
         JOptionPane.showMessageDialog(janela,
@@ -75,11 +74,6 @@ public class CadastroController {
                     "Dados atualizados com sucesso!",
                     "Atualização",
                     JOptionPane.INFORMATION_MESSAGE);
-        } else {
-            JOptionPane.showMessageDialog(janela,
-                    "Nenhum cliente foi consultado ainda!",
-                    "Erro",
-                    JOptionPane.ERROR_MESSAGE);
-        }
+        } 
     }
 }

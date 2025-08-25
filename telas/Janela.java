@@ -18,7 +18,7 @@ public class Janela extends JFrame {
     // Construtor
     public Janela() {
         super("Java Swing - Desenvolvimento de Sistemas"); // título
-        setSize(400, 255); // tamanho da janela
+        setSize(400, 260); // tamanho da janela
         setResizable(false); // não pode redimensionar
         getContentPane().setLayout(null); // layout nulo
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

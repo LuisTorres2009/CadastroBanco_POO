@@ -14,7 +14,7 @@ public abstract class Conta {
     public double getSaldo() { return saldo; }
     public void setSaldo(double saldo) { this.saldo = saldo; }
 
-    // Métodos genéricos
+    // Métodos que serão sobrescritos
     public void gravar() { System.out.println("Gravando conta..."); }
     public void editar() { System.out.println("Editando conta..."); }
     public void excluir() { System.out.println("Excluindo conta..."); }

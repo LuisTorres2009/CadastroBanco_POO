@@ -19,7 +19,7 @@ public class Pessoa {
     public String getCpf() { return cpf; }
     public void setCpf(String cpf) { this.cpf = cpf; }
 
-    // Métodos que podem ser sobrescritos
+    // Métodos que serão sobrescritos
     public void gravar() { System.out.println("Gravando pessoa..."); }
     public void editar() { System.out.println("Editando pessoa..."); }
     public void excluir() { System.out.println("Excluindo pessoa..."); }

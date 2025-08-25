@@ -5,7 +5,7 @@ Aplicação em **Java Swing** que simula o cadastro e gerenciamento básico de c
 ---
 
 ## 🎯 Objetivo
-Demonstrar a aplicação de:
+Demonstrar a aplicação de: 
 - **Herança e polimorfismo** em classes Java.  
 - **Abstração de entidades** (Pessoa, Cliente, Conta, ContaCorrente, ContaPoupanca).  
 - **Separação de responsabilidades** em camadas (objetos, funções/controladores e interface gráfica).  
